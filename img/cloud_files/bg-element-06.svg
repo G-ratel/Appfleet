@@ -1,0 +1,13 @@
+<svg width="190" height="190" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient cx="84.463%" cy="28.933%" fx="84.463%" fy="28.933%" r="143.56%" id="b">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-opacity="0" offset="100%"/>
+    </radialGradient>
+    <path d="M894 0c103.885 0 188.297 83.373 189.975 186.858L1084 190l-190-.001V0z" id="a"/>
+  </defs>
+  <g transform="rotate(180 542 95)" fill="none" fill-rule="evenodd" opacity=".216">
+    <use fill="#85C4F5" xlink:href="#a"/>
+    <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#a"/>
+  </g>
+</svg>

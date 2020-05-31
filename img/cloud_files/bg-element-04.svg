@@ -1,0 +1,16 @@
+<svg width="380" height="261" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <radialGradient cx="84.463%" cy="28.933%" fx="84.463%" fy="28.933%" r="180.446%" gradientTransform="scale(-.5 -1) rotate(-45.608 -1.11 3.013)" id="b">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-opacity="0" offset="100%"/>
+    </radialGradient>
+    <path d="M0 261l.024-2.91C1.578 162.23 79.77 85 176 85s174.422 77.23 175.976 173.09L352 261H0z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g opacity=".216" transform="matrix(1 0 0 -1 0 346)">
+      <use fill="#85C4F5" xlink:href="#a"/>
+      <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#a"/>
+    </g>
+    <path d="M326.5 3.5a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0zm27-106a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0zm26-106a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 27a3 3 0 11-6 0 3 3 0 016 0zm0 26a3 3 0 11-6 0 3 3 0 016 0z" fill="#0C5CE5" opacity=".5"/>
+  </g>
+</svg>

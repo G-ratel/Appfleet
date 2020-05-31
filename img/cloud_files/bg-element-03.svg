@@ -1,0 +1,18 @@
+<svg width="380" height="380" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path d="M0 0c103.885 0 188.297 83.373 189.975 186.858L190 190l-190-.001V0z" id="a"/>
+    <path d="M190 190c103.885 0 188.297 83.373 189.975 186.858L380 380l-190-.001V190z" id="c"/>
+    <radialGradient cx="84.463%" cy="28.933%" fx="84.463%" fy="28.933%" r="143.56%" id="b">
+      <stop stop-color="#FFF" offset="0%"/>
+      <stop stop-opacity="0" offset="100%"/>
+    </radialGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" opacity=".216">
+    <use fill="#85C4F5" xlink:href="#a"/>
+    <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#a"/>
+    <g transform="rotate(180 285 285)">
+      <use fill="#85C4F5" xlink:href="#c"/>
+      <use fill="url(#b)" style="mix-blend-mode:soft-light" xlink:href="#c"/>
+    </g>
+  </g>
+</svg>
